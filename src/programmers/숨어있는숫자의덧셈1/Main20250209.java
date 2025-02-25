@@ -23,7 +23,7 @@ public class Main20250209 {
 
     public static void main(String[] args) {
         // 테스트 코드
-        System.out.println(solution("aAb1B2cC34oOp"));  // 10
-        System.out.println(solution("1a2b3c4d123Z"));   // 16
+        System.out.println(solution("aAb1B2cC34oOp"));
+        System.out.println(solution("1a2b3c4d123Z"));
     }
 }
