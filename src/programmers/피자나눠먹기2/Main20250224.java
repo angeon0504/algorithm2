@@ -8,7 +8,7 @@ package programmers.피자나눠먹기2;
 */
 public class Main20250224 {
     public int solution(int n) {
-        return lcm(n, 6) / 6;
+        return lcm(n, 6) /  6;
     }
 
     private int lcm(int a, int b) {
