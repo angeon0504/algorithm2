@@ -1,6 +1,6 @@
 package programmers.겹치는선분의길이;
 /*
-문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120876
+문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/1208763
 제한 시간: 30분
 사용 시간: 30분
 문제해결방법:
