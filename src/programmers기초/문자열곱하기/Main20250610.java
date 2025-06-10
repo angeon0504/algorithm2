@@ -7,7 +7,7 @@ package programmers기초.문자열곱하기;
 for문으로 각 인덱스의 문자를 번갈아 append 하기
 마지막에 toString()으로 문자열을 리턴
 */
-public class Main20250603 {
+public class Main20250610 {
     public  static String soltuion(String my_string, int k ) {
         StringBuilder sb = new StringBuilder();
 
